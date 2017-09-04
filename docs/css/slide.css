@@ -1,0 +1,48 @@
+.title-slide hgroup h1 {
+  font-size: 56px;
+  letter-spacing: 0;
+}
+
+
+.ninety {
+  font-size: 90%;
+   }
+
+.eightyfive {
+   font-size: 85%;
+   }
+   
+   
+.presc {
+  white-space: pre !important;
+  overflow-y: scroll !important;
+  height: 50vh !important;
+}   
+   
+#myImagePage img {
+  width: 750px;
+  height: 450px;
+}
+
+#myImagePage2 img {
+  width: 400px;
+  height: 250px;
+}
+
+
+#myImagePage3 img {
+  width: 450px;
+  height: 350px;
+}
+
+
+#myImagePage3 img {
+  width: 250px;
+  height: 300px;
+}
+
+
+#myImagePage5 img {
+  width: 600px;
+  height: 200px;
+}
